@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, javascript**
 
-- 👨‍💻 All of my projects are available at [my github repo](my github repo)
+- 👨‍💻 All of my projects are available at my github repo
 
 - 📫 How to reach me **bassrabbitspiritcorn@proton.me**
 
